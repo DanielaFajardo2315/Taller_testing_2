@@ -64,6 +64,6 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 1. Ejecución correcta de la prueba de ejemplo
 ![img1](img_test/Prueba_1.png)
 2. Ejecución incorrecta de la prueba de ejemplo
-![img2](img_test/prueba_2.png)
+![img2](img_test/Prueba_2.png)
 3. Ejecución pruebas de login
-![img3](img_test/prueba_3.png)
+![img3](img_test/Prueba_3.png)
