@@ -54,8 +54,16 @@ Este repositorio presenta la solución de una prueba técnica realizada en clase
 ## Autoría  
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
-- **Autor:** Luisa Castaño Vanegas
-- **GitHub:** [LuisaCastano40](https://github.com/LuisaCastano40)  
-- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/luisacastanovanegas/) 
+- **Autor:** Daniela Fajardo Ordoñez
+- **GitHub:** [DanielaFajardo2315](https://github.com/DanielaFajardo2315)  
+- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/daniela-fajardo-desarrolladora-web-full-stack/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+## Taller
+
+1. Ejecución correcta de la prueba de ejemplo
+![img1](img_test/Prueba_1.png)
+2. Ejecución incorrecta de la prueba de ejemplo
+![img2](img_test/prueba_2.png)
+3. Ejecución pruebas de login
+![img3](img_test/prueba_3.png)
